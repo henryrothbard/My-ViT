@@ -1,0 +1,1 @@
+A lil vision transformer model I made based on the 'An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale' and 'Attention Is All You Need' papers. Made during the summer of 2024 at a NYU ML summer program as my final project.
